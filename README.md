@@ -1,2 +1,2 @@
 # atm-cashflow
-Bu çalışmada atm cashflow datasında bir zaman serisi modeli oluşturmak istedim.Bunun için bir CNN1d modeli oluşturdum.Multivariate time series modelinizde kullanabilirsiniz.Bu gibi datasetlerde poisson distribution da kullanılabilir.Yakında onuda paylaşacağım.
+Bu çalışmada atm cashflow datası kullanılarak geçmiş yıllardaki atm'ye günlük yatırılan para miktarı üzerinden 30 günlük tahmin yapan algoritma oluşturuldu.Algoritma olarak CNN1D kullandım.Kodda knn imputer Cnn1d'nin nasıl implement edileceğini görebilirsiniz.Multivariate time series modelinizde kullanabilirsiniz.Bu gibi datasetlerde poisson distribution da kullanılabilir.Yakında onuda paylaşacağım.
